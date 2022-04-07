@@ -1,3 +1,8 @@
+# Bahan-bahan
+Download apk termuxnya disini biar ngga eror
+
+[Klik Here](https://f-droid.org/repo/com.termux_118.apk)👈
+
 # Warning
 Kalau Stuck Saat Masukan Token, Berarti Kamu Jomblo 😅😂
 
