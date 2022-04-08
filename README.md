@@ -19,7 +19,6 @@ $ git clone https://github.com/Aji2005/Relax
 # Run
 
 $ cd Relax
-$ git pull            
 $ python AjiRelax.py
 
 ## MY SOCIAL MEDIA
